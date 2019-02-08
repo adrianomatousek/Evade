@@ -18,7 +18,7 @@ Unity (plugins: AdMob, UnityPurchasing)
 
 ### Installing
 
-This repo does not include the Unity plugins. I've included all the important assets (models, scripts, scenes, music & images). Add these into the root directory of your Unity assets folder.
+I've included all the important assets (models, scripts, scenes, music & images). Add these into the root directory of your Unity assets folder.
 
 ## Testing & Building
 
