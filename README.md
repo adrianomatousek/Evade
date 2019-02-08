@@ -2,9 +2,13 @@
 
 Evade was my first big programming project, developed over Christmas 2017!
 
-## Screenshots
+## Screenshots & Demo
 
 ![Feature](/Screenshots/featuregraphic_google.png?raw=true "Feature Graphic")
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/JRl0Hm4Vaio/0.jpg" 
+alt="Evade, Android & iOS" width="240" height="180" border="10" /></a>
 
 ## Android Download
 
@@ -30,6 +34,7 @@ Developed to support iOS and Android
 * [Cinema4D](https://www.maxon.net/en/products/cinema-4d/overview/) - Creating assets
 * [Thrausi Plugin C4D](https://nitro4d.com/product/thrausi/) - Generates a fractured copy of a 3D object
 * [Photoshop](https://www.photoshop.com/) - Various artworks and marketing material
+* 
 
 ## Versioning
 
