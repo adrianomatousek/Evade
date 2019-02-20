@@ -32,7 +32,6 @@ Developed to support iOS and Android
 * [Cinema4D](https://www.maxon.net/en/products/cinema-4d/overview/) - Creating assets
 * [Thrausi Plugin C4D](https://nitro4d.com/product/thrausi/) - Generates a fractured copy of a 3D object
 * [Photoshop](https://www.photoshop.com/) - Various artworks and marketing material
-* 
 
 ## Versioning
 
